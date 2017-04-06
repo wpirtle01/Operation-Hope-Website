@@ -1,0 +1,29 @@
+#about {
+  font-size: 3vw;
+  line-height: 200%;
+}
+
+img {
+  width: 90%;
+}
+
+#believe {
+  border-style: solid;
+  border-color: black;
+}
+
+#believe {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#believe {
+  margin: 5%;  
+  margin-top: 0;
+}
+
+p {
+ margin-right: 5%;
+ margin-left: 5%;
+}

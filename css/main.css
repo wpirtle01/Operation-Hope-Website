@@ -1,0 +1,190 @@
+/************
+Header
+************/
+#operation {
+  text-align: left;
+  font-size: 2.5vw;
+  color: white;
+  font-family: 'Roboto',sans-serif;
+}
+
+header {
+  background-color: #262216;
+} 
+
+header h2 {
+    margin: 0;
+    padding: 2.5%;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#hamburger {
+  float: right;
+  height: 4vw;
+  width: 6vw;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    font-family: 'Roboto Condensed' , sans-serif;
+}
+
+/*********
+Nav
+*********/
+a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto Condensed' , sans-serif;
+} 
+
+a:hover {
+  color: #b0a18e;  
+}
+
+nav li {
+  padding: 15px;
+  padding-right: 0;
+} 
+
+nav ul {
+  margin:0;
+}
+
+nav {
+  padding: 1.5%;
+  padding-right: 40px;
+  padding-left: 0px;
+} 
+
+h4 {
+  background-color: black;
+  height: 100%;
+  padding-top: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 2.0vw;
+  font-family: 'Roboto' , sans-serif;
+}
+
+
+
+
+/**********
+Slideshow
+**********/
+/*************
+Slideshow credit to w3schools
+*************/
+.slideshow .mySlides {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.slideshow {
+  margin: 5%;  
+  margin-top: 0;
+} 
+
+.slideshow {
+  border-style: solid;
+  border-color: black;
+}
+
+.slideshow {
+  margin-top: 5%;
+} 
+
+/**********
+Body/HTML
+**********/
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+html,body {
+  padding: 0;
+  margin: 0;
+}
+
+ body ul li {
+  display: inline;
+}
+
+body ul {
+  text-align: center;
+}
+
+body {
+  background-color: #97743a;
+}
+
+p {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*************
+FOOTER
+**************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+/*********
+Font
+*********/
+
+/****************
+Story of the Day
+****************/
+h1{
+  text-align: center;
+  font-size: 2.5vw;
+} 
+
+#story {
+  font-size: 2vw;
+  padding: 50px;
+  padding-top: 0;
+}
+
+/***********
+Logo
+***********/
+
+.logo {
+  height: 3vw;
+  width: 3vw;
+} 
+
+
+/***********
+Creed 
+***********/
+
+#creed {
+  padding: 40px;
+  padding-top: 0;
+  font-size: 1.5vw;
+} 
